@@ -366,5 +366,14 @@ color: #424242;
         gap: 24px;
     }
     
+    .feature-info {
+        display: flex;
+        flex-direction: column;
+        gap: 73px;
+        justify-content: center;
+        align-items: center;
+    
+    }
+    
     
 }
